@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 - 🔭 Currently building cool Web Development projects
-- 🌱 Diving deep into Backend Development and DSA
+- 🌱 Diving deep into Full Stack Development and DSA
 - 💬 Ask me anything about **React**, **Web Development**, or **Frontend Technologies**
 - ⚡ Fun fact: I might be addicted to **coding** 🤓
 
