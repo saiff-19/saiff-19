@@ -32,7 +32,6 @@
 ---
 
 ## 📊 GitHub Stats
-                  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdoescoding&label=Profile%20views&color=0e75b6&style=flat" alt="anshdoescoding" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=saiff-19&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 
